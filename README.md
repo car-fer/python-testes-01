@@ -12,6 +12,10 @@ programas
 7
 8
 9
+<<<<<<< Updated upstream
 
 11
 12
+=======
+10
+>>>>>>> Stashed changes
